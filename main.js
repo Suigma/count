@@ -1,7 +1,7 @@
 document.getElementById("header").innerHTML = "Gtw Prediksi aj";
 
 function countdown() {
-    const countDownDate = new Date("December 5, 2024 00:00:00").getTime();
+    const countDownDate = new Date("November 30, 2024 00:00:00").getTime();
 
     const x = setInterval(() => {
         const now = new Date().getTime();
